@@ -1,0 +1,12 @@
+{
+  "name": "bimsonz/tracker-network-php-api-client",
+  "description": "PHP API Client for https://tracker.gg",
+  "autoload": {
+    "psr-4": {
+      "TrackerNetwork\\": "src/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^7.0"
+  }
+}
