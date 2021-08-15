@@ -1,5 +1,5 @@
 {
-  "name": "bimsonz/tracker-network-php-api-client",
+  "name": "bimsonz/php-tracker-network-api-client",
   "description": "PHP API Client for https://tracker.gg",
   "autoload": {
     "psr-4": {
